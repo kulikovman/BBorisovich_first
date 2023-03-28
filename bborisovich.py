@@ -1,7 +1,7 @@
 import telebot
 import setting
 
-# telebot - https://docs.python-telegram-bot.org/en/stable/index.html
+# telebot - https://pypi.org/project/pyTelegramBotAPI/
 
 
 bot = telebot.TeleBot(setting.TOKEN)
